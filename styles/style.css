@@ -61,7 +61,6 @@ ol {
   min-width: 1140px;
   align-items: end;
   gap: 30px;
-  margin-top: 35px;
   inline-size: 100%;
 }
 
@@ -220,7 +219,6 @@ input:focus {
   text-transform: uppercase;
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
-  padding-top: 65px;
   padding-bottom: 23px;
 }
 
